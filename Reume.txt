@@ -1,0 +1,71 @@
+<!Doctype html>
+<html>
+  <head>
+    <title> Resume </title>
+    <style>
+      table, th, td {
+          border: 1px solid black;
+          }
+    </style>
+  </head>
+  <body>
+    <b><u><h1 align="center"> RESUME </h1></u></b>
+    <b><h3> Personal Information</h3> </b>
+    <p> Name : A. Blessy Sharonika </br>
+        Date of Birth : 05-12-1999</br>
+        Father Name : A. Babji Nixon</br>
+        Mother Name : A. Clara Mani</br>
+        Contact details : 6303615271</br>
+        Email ID : sharonikanixon@gmail.com</br>
+        Address : Siri Enclave, Lalacheruvu, Spnning Mill Colony 2, Rajahmundry,
+                  East Godavari, Andhra Pradesh, 533101.</p>
+    <b><h3> Career Objective </h3></b>
+    <p> I would like to pursue my career in a working environment that will utilize my technical skills and abilities. And also gain experience in rapidly in different fields. </p>
+    <b><h3> Academic Details </h3></b>
+    <table>
+          <tr id="Heading"> 
+          <th>Qualifivation</th>
+          <th>School/College Name</th>    
+          <th>Percentage/GPA</th>
+          <th>Year</th> 
+      </tr>
+      <tr>
+        <td> B.Tech </td>
+        <td> Adikavi Nannaya University </td>
+        <td> Pursuing </td>
+        <td> 2020-2024 </td>
+     </tr>
+     <tr>
+        <td> Diploma </td>
+        <td> Aditya College of Engineering </td>
+        <td> 79% </td>
+        <td> 2016-2019 </td>
+     </tr>
+     <tr>
+        <td> S.S.C </td>
+        <td> A.P.P.M High School </td>
+        <td> 7.7 </td>
+        <td> 2016</td>
+     </tr>
+  </table>
+</br>
+
+  <b><h3> Achievements and Certification </h3></b>
+     <ul> •	I received my computer hardware and networking course certificate with a good grade.</br>
+•	Completed course in Cryptography and Network Security from NPTEL portal.</br>
+•	Completed course in Introduction to cloud computing from Coursera.</br>
+</ul>
+    <b><h3> Strengths</h3></b>
+    <ul>•	Good communication skills.</br>
+•	Hardworking nature. </br>
+•	Self-motivation. </br>
+•	Quick learner. </br>
+•	Enthusiastic to learn new things. </br> </ul>
+
+    <b><h3> Trainings </h3></b>
+    <p>I had completed 6 months industrial training on computer hardware and networking from Cyber World training institute.<p>
+    <p>I had completed 2 months internship training on Backend Web Development in TCR INNOVATION. <p> 
+     <b><h3> Projects </h3></b>
+     <p> I have done a project on Hospital Management System. 
+ </body>
+</html>
